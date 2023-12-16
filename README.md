@@ -7,6 +7,7 @@
 - 🙃 Secured 68th position in GDSC challenge by competing with 1573 participants of 421 teams, organised by capgemini realted to Sustainability
 - 💞️ Reach me by vamshidhargoud33@gmail.com
 - 📫 More details - www.linkedin.com/in/vamshidharngoud
+  
 <!---
 codecraftsSVG/codecraftsSVG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
