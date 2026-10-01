@@ -1,5 +1,5 @@
 👋 Hi, My name is S Vamshidhar Goud
-- 🔭 I’m currently working at Capgemini as a Associate Consultant ( Data Engineer ).
+- 🔭 I’m currently working at Capgemini as a Consultant ( Gen AI & Agentic AI Engineer ).
 - 👀 I’m interested in area in Artificial intelligence and specially in developing autonomous tools which will save time and energy.
 - 🌱 I’m currently learning Generative AI
 - 👯 I’m looking to collaborate on develpment applications realted to time series forecasting.
