@@ -1,14 +1,10 @@
-👋 Hi, My name is S Vamshidhar Goud
-- 🔭 I’m currently working at Capgemini as a Consultant ( Gen AI & Agentic AI Engineer ).
-- 👀 I’m interested in area in Artificial intelligence and specially in developing autonomous tools which will save time and energy.
-- 🌱 I’m currently learning Generative AI
-- 👯 I’m looking to collaborate on develpment applications realted to time series forecasting.
-- 😄 Pronouns: He/His.
-- 🙃 Secured 68th position in GDSC challenge by competing with 1573 participants of 421 teams, organised by capgemini realted to Sustainability
-- 💞️ Reach me by vamshidhargoud33@gmail.com
-- 📫 More details - www.linkedin.com/in/vamshidharngoud
-  
-<!---
-codecraftsSVG/codecraftsSVG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# S Vamshidhar Goud
+Senior GenAI & Agentic AI Engineer · Hyderabad, India
+
+I build production GenAI and Agentic AI systems: RAG and GraphRAG, multi-agent orchestration, and LLM platforms across GCP (Vertex AI) and Azure OpenAI.
+
+**Stack:** Python · LlamaIndex · CrewAI · LangChain · n8n · Vertex AI · Azure OpenAI · Docker
+
+**Certifications:** AWS Certified Machine Learning – Specialty · Microsoft Azure AI Fundamentals
+
+**Find me on LinkedIn:** linkedin.com/in/vamshidharngoud
